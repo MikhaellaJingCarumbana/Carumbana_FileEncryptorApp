@@ -1,27 +1,28 @@
-How to Use
 
 Encrypting a File
 
-Open the application.
+1.)Open the application.
 
-Click the "Encrypt" button.
+2.) Click the "Encrypt" button.
 
-Select a file from the file dialog.
+3.) Select a file from the file dialog.
 
-Choose a destination folder where the encrypted file will be saved.
+4.) Choose a destination folder where the encrypted file will be saved.
 
-The encrypted file will be saved with the prefix Encrypted_.
+5.) The encrypted file will be saved with the prefix Encrypted_.
 
-A confirmation message will appear.
+6.) A confirmation message will appear.
+
+
 
 Decrypting a File
 
-Click the "Decrypt" button.
+1.) Click the "Decrypt" button.
 
-Select an encrypted file (Encrypted_ prefix) from the file dialog.
+2.) Select an encrypted file (Encrypted_ prefix) from the file dialog.
 
-Choose a destination folder for the decrypted file.
+3.) Choose a destination folder for the decrypted file.
 
-The decrypted file will be saved with the prefix Decrypted_.
+4.) The decrypted file will be saved with the prefix Decrypted_.
 
-A confirmation message will appear.
+5.) A confirmation message will appear.
